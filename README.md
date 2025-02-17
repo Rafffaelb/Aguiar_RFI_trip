@@ -13,7 +13,7 @@
 - Amilcar Queiroz (UFCG)
 
 # Previous Review of Trip (complete review, with more details, will be in Final Report, which will be uploaded as a PDF file)
-From 11th to 13th February, the group, including Jordany Vieira, Rafael Batista, and Lucas Santana, traveled to the BINGO site. The main aim of the trip was to analyze RFI using two spectrometers (FPH and FieldFox) and two different types of antennas (omnidirectional and directional). Another aim was to try to find positions for Outriggers. 
+From 11th to 13th February, the group, including Jordany Vieira, Rafael Batista, and Lucas Santana, traveled to the BINGO site. The trip's main aim was to analyze RFI using two spectrometers (FPH and FieldFox) and two different types of antennas (omnidirectional and directional). Another focus was to try to find positions for Outriggers. 
 Before the visit, we used the anechoic chamber (UFCG), and the surrounds of the LABMET (UFCG), to find the best equipment configuration for the trip measurements (the anechoic chamber measurements are in the folder). 
 On this trip, we measure six BINGO site points and seven points outside (three with more than 7km distance from the site). In the site point sites, we did measurements with both antennas and at different day times.
 
@@ -25,3 +25,4 @@ To FAPESQ/SECTIES-PB and CAPES to support.
 
 # Observations
 More information will be uploaded in the following days on the final report. Pay attention, because some questions will be answered in the final report.
+The PDF presentation needs to be downloaded.
